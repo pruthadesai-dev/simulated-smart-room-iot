@@ -85,6 +85,11 @@ Keep Node-RED and the simulator running in separate terminals.
 - Chart history is temporary; JSONL provides the saved record.
 - MQTT authentication and TLS are not configured in this local demonstration.
 
+## Dashboard Screenshot
+
+<img width="463" height="384" alt="dashboard screen short" src="https://github.com/user-attachments/assets/68d01fd7-0d83-4c14-9750-faff080cb4da" />
+
+
 ## Future Improvements
 
 - MQTT authentication and TLS
